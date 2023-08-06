@@ -1,0 +1,29 @@
+{
+    "DIRECTORY - directory":[
+        "FILE - 1.txt = 0 byte",
+        "FILE - 2.txt = 2 byte",
+        "FILE - 3.txt = 0 byte",
+        "FILE - 4.txt = 0 byte",
+        "FILE - 5.txt = 42 byte",
+        "FILE - 6.txt = 18 byte"
+    ],
+    "DIRECTORY - directory\\dir1":[
+        "FILE - 1.txt = 31 byte",
+        "FILE - 2.txt = 15 byte"
+    ],
+    "DIRECTORY - directory\\dir1\\dir1_1":[
+        "FILE - 1.txt = 8 byte",
+        "FILE - 2.txt = 29 byte"
+    ],
+    "DIRECTORY - directory\\dir2":[
+        "FILE - 1.txt = 21 byte",
+        "FILE - 2.txt = 15 byte"
+    ],
+    "DIRECTORY - directory\\dir2\\dir2_2":[
+        "FILE - 1.txt = 7 byte",
+        "FILE - 2.txt = 7 byte"
+    ],
+    "DIRECTORY - directory\\dir3":[],
+    "DIRECTORY - directory\\dir4":[],
+    "DIRECTORY - directory\\dir5":[]
+}
